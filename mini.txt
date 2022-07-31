@@ -1,0 +1,15 @@
+Nome: Paloma Guterres
+Idade: 34
+
+Formação 
+Cursos do +PraTi
+Informática Profissional
+Programação Java
+
+Não estou trabalhando e não trabalhei com tecnologia.
+•	HTML: conheço o básico , médio.
+•	CSS: conheço o básico, 
+•	Javascript: conheço o básico
+•	Frameworks baseados em javascript como Angular, React, VUE, React Native, etc: um pouco de react e angular, introdução bem fraca.
+•	Desenvolvimento back-end: conhecimento básico -montar um crud.
+•	Banco de dados: conhecimento básico – montar um crud com banco de dados.
